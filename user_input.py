@@ -1,3 +1,4 @@
+#this function is used to get the factorial of a given number
 def factorial(number):
     if number == 0:
         return 1
